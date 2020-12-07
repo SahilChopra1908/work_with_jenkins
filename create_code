@@ -1,0 +1,1 @@
+echo "Hello let's begin with jenkins %date% %time%"
