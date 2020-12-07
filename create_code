@@ -3,3 +3,5 @@ echo "Hello let's begin with jenkins %date% %time%"
 echo "Deleting to check status:"
 
 echo "Hello let's begin with jenkins three %date% %time%"
+
+echo "Done with the changes"
