@@ -1,1 +1,5 @@
 echo "Hello let's begin with jenkins %date% %time%"
+
+echo "Hello let's begin with jenkins two %date% %time%"
+
+echo "Hello let's begin with jenkins three %date% %time%"
